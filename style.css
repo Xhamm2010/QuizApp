@@ -8,6 +8,11 @@ body {
   background-color: #f9f9f9;
 }
 
+.quiz{
+  align-content: center;
+  color: #70b5ff;
+}
+
 .quiz-container {
   display: flex;
   flex-direction: column;

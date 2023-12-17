@@ -44,6 +44,15 @@ const questions = [
       { text: "<scripting>", correct: false },
     ],
   },
+  {
+    question: "who is the president of Nigeria?",
+    answers: [
+      { text: "Buhari", correct: false },
+      { text: "Tinubu", correct: false },
+      { text: "Ezekiel", correct: true },
+      { text: "Bayo", correct: false },
+    ],
+  },
 ];
 
 startQuiz();
